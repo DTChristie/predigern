@@ -1,0 +1,12 @@
+p::after {
+	content:' \00B6';
+	color:gray;	
+}
+ul::after {
+	content:' \2193';
+	color:gray;	
+}
+ol::after {
+	content:' \21A1';
+	color:gray;	
+}
